@@ -1,4 +1,4 @@
-# CODSOFT
+# CODE 
 Task1: Number Guessing Game:
 This is a simple number guessing game in Java.
 #how to run:
